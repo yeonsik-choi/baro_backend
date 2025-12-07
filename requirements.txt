@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-jose[cryptography]
+requests
+
+langgraph
+langchain-core
+langchain-openai
+langgraph-checkpoint-postgres
+psycopg_pool
+psycopg-binary
+
+pydantic
+supabase
+tenacity
